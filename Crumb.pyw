@@ -17,8 +17,7 @@ while not W.has_exit:
 		for A,B in(0,9),(1,4):
 			glRecti(X+B,Y+B,X-B,Y-B)
 			glColor3f(1-A,A,A)
-		glBegin(1)
-		for A,L in zip(Z,(0,[])):glVertex2fv(A)
+		for A,L in zip(Z,(glBegin(1),[])):glVertex2fv(A)
 		A=glColor3f(1,1,1)
 	elif len(L)>12:
 		glBegin(3)
