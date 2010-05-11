@@ -5,11 +5,9 @@ R["debug_gl"]=W(60)
 from pyglet.gl import GLfloat,glBegin,glEnd,glLineWidth,glVertex2f,glVertex2fv,glColor3f,glReadPixels,glClear,glRecti
 from pyglet.window import Window as W
 from random import randint as R
-W=W(style="borderless",width=600,height=600)
-W.set_mouse_cursor(W.get_system_mouse_cursor("crosshair"))
-(lambda f:f(f))(lambda f:globals().update(A=-6,B=-6,Z=((GLfloat*2)((Z<<2)-6,4) for Z in xrange(2147483647)),_=glClear(16384),r=f))
-W.event("on_mouse_drag")(W.event("on_mouse_motion")(lambda x,y,z,Z,b=0,m=0,R=(GLfloat*3)():A or(L.extend((x,y))or len(L)>3 and any(((glReadPixels(x,y+(x-L[-2])*(L[-3]-L[-1])/(L[-4]-L[-2]),1,1,6407,5126,R),any(R[:2]))[1]for x in xrange(x,L[-4],cmp(*L[-4::2])or x))if abs(L[-3]-L[-1])<abs(L[-4]-L[-2])else((glReadPixels(x+(y-L[-1])*(L[-4]-L[-2])/(L[-3]-L[-1]),y,1,1,6407,5126,R),any(R[:2]))[1] for y in xrange(y,L[-3],cmp(*L[-3::2])or y)))and(r(r)if R[1]else globals().update(A=X,B=Y)))))
-glLineWidth(2)
+W=W(600,600,style="borderless")
+(lambda f:f(f))(lambda f:globals().update(A=-6,B=-6,Z=((GLfloat*2)((Z<<2)-6,4)for Z in xrange(2147483647)),_=glClear(16384),r=f))
+W.event("on_mouse_drag")(W.event("on_mouse_motion")(lambda x,y,z,Z,b=glLineWidth(2),m=W.set_mouse_cursor(W.get_system_mouse_cursor("crosshair")),R=(GLfloat*3)():A or(L.extend((x,y))or len(L)>3 and any(((glReadPixels(x,y+(x-L[-2])*(L[-3]-L[-1])/(L[-4]-L[-2]),1,1,6407,5126,R),any(R[:2]))[1]for x in xrange(x,L[-4],cmp(*L[-4::2])or x))if abs(L[-3]-L[-1])<abs(L[-4]-L[-2])else((glReadPixels(x+(y-L[-1])*(L[-4]-L[-2])/(L[-3]-L[-1]),y,1,1,6407,5126,R),any(R[:2]))[1]for y in xrange(y,L[-3],cmp(*L[-3::2])or y)))and(r(r)if R[1]else globals().update(A=X,B=Y)))))
 while not W.has_exit:
 	tick(W.dispatch_events())
 	if A:
