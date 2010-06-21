@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from pyglet import *
+from pyglet import*
 g=gl
 F,G,D,V,O,C,R,W,U,r=g.GLfloat,g.glBegin,g.glEnd,g.glVertex2f,g.glColor3f,g.glClear,g.glRecti,window.Window(600,600),globals().update,lambda:U(A=C(16384)or-6,B=-6,Z=iter(range(149)),Q=range)
 W.on_mouse_drag=W.on_mouse_motion=lambda x,y,z,Z=r(),b=g.glLineWidth(2),m=W.set_mouse_cursor(W.get_system_mouse_cursor("crosshair")),R=(1,1,6407,5126,(F*3)()):A or(L.extend((x,y))or len(L)>3and((lambda z:any(g.glReadPixels(*(X,(x,y)[z]+(X-L[-1^z])*(L[z-4]-L[z-2])/(L[-3^z]-L[-1^z]))[::z+z-1]+R)or any(R[4][:2])for X in Q((y,x)[z],L[-3^z],cmp(*L[-3^z::2]))))(abs(L[-3]-L[-1])<abs(L[-4]-L[-2])))and R[4][not U(A=X,B=Y)]and r())
