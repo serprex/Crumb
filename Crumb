@@ -1,7 +1,4 @@
 #!/usr/bin/python
-from random import*
-from pyglet import*
-g=gl
-G,D,V,O,R,W,U,Q,r,W.on_draw=g.glBegin,g.glEnd,g.glVertex2f,g.glColor3f,g.glRecti,window.Window(600,600),globals().update,range,lambda:U(A=g.glClear(16384)or-6,B=-6,Z=iter(Q(149))),lambda:U(A=U((x,randint(99,501))for x in"XY"),L=[V(a*4-6,4)for a,a in zip((G(1),O(0,1,1)),Z)][D():O(0,0,0):R(A+9,B+9,A-9,B-9)][R(X+9,Y+9,X-9,Y-9):O(1,0,0):R(X+4,Y+4,X-4,Y-4)]*0)if A else[V(*a>2and(L.pop(0),L.pop(0))or L[:2])for a in Q(len(L)-12,G(3)or-1,O(1,1,1)or-2)][U(A=D()):]
-W.on_mouse_drag=W.on_mouse_motion=lambda x,y,z,Z=r(),b=g.glLineWidth(2),m=W.set_mouse_cursor(W.get_system_mouse_cursor("crosshair")),R=(1,1,6407,5126,(g.GLfloat*3)()):A or(L.extend((x,y))or len(L)>3and((lambda z:any(g.glReadPixels(*(X,(x,y)[z]+(X-L[-1^z])*(L[z-4]-L[z-2])/(L[-3^z]-L[-1^z]))[::z+z-1]+R)or R[4][0]for X in Q((y,x)[z],L[-3^z],cmp(*L[-3^z::2]))))(abs(L[-3]-L[-1])<abs(L[-4]-L[-2])))and R[4][not U(A=X,B=Y)]and r())
-app.run()
+from zlib import*
+from base64 import*
+exec decompress(b64decode("eNpVUttum0AQfc9XID/N4oGCTdwalUhOWvkFKQ1SYhyEqrVZEyRg0YIVzNd3FpwoBS2zcz9zhpOSlaF4nZEoqkaqzrw5aVtzyUvRfdq2+Atf8BEj3OEzPqHCnS3rv5ni70Fe2nl5L/KixvH6u86my4tQnegXp0l7kKVUy6sSiWNX4HtBjd/t3Shg5ThIh1GEPPCyBWafm4x3AglgLrDk1SHj/jNsppYPpeAK3NXyh8ekslZ4H9DnNSg6oeAJXG/NGPua9QzQ61pZUXewXuOt4zJ2ksrojaKexfsZwzBIXoCbHhXyRhdHTk5jKBqALbgMH8FBFykRX1ma/ALmawu9zI9gM1/jPZ2NRdJaU0AEMel7OjHZ9mSjePcjPp575PPIR9LyWGo6rDgZG0OUrSAkJr9bEF4I7UY2QNR8XGhgI0z8RTqB1BCfoBQ1hMxyF7iFpabERd1LoyVlQWg0CwSZ+enNuL9Knluht5gHX/RKdoWsg4k5o8cLDkSrAoaHifmwqMWuyLo3WDCsKLUV3TX3eFatVLCzczK1l7YT1f+e2VHJtn3jhZoRh1EwAlx5zne8dRcrBGqwDU+l5J25ZBrqxqCs0BZ9J4gJ2uBlnH4a9m6p6YEr1MHn9QWuPxjP/hQ98QgmxDimJUM6h9gKE8u1hpSZECaD5aWWFsTkN9KtJXk+I1ji+8N8sNx0HumeUeKliZNqyuOJcrhgr+viNRWPVQPmpPh6PfQAP7Rj6alwyn5eDWNrawyiKabqtewMvaWY/uY9S7WdiGc3vGlsda6B/QMwdBqo"))
