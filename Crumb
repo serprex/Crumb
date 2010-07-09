@@ -1,4 +1,4 @@
 #!/usr/bin/python
 #coding=utf-8
-from zlib import*
-exec decompress('xÚmSÁnÛ0½÷+Œž¨DöêÚËÎaÅ°KÃíÁ0\n%fT²$È\nÚþýÈÄÉÖb	ZO|"ùž³~Ì¢r3ÓâjÏXx×Óÿ°BÛ<I\'½¥–FšÂ»ç!ª×Öªq;¨FÛ{‹*B¹ªîjác¦!¶y)wüóÜš„¨´Æ9C©í#Æ„o·{z¼÷ÖÇŠŸ~ã.Š~«ì¢8„A%”¯†ú~-žŽ¾®×’–çòTMChy:ãðqy+$~FˆÑv}§íwÔÆA)%µH_Ñ8pø–àY,ê|%kÑwŸšó‡àÂ:-J!.×rG+æóµhF´EZ dˆX8aYSBM	sº¾fŸÅí„Ù¹ÇŠå<2©G©\'[¸šæò(ö”¦2ã²“Î)Qäw›\rÕ"2Û5·ýÙyqu4sô‡	ÙRÝþ³}2ÞÍ&gŠü×–ì$_ä–.x0ŸÌ^€´6Dœ0ÍÌÝ!N>‚)4AÓû”püxr½‹~š^”‰×äÊØ\Õ7ßØ§•„Ÿ{ëUZT‚zlHHs“HMu"xŽÓ›J18w‰rïÀ/’~™7Òä‘Óa¿„Û./sìÅlGº÷9RæíóŠN.¢kÌË%ñF.8vußÝô¬uø«5x©øn9Óån¬6o–œ> ¶_¬ÆÅ63PªqÁÖúßà¥±{¥B(âÁøQ—*Ï')
+import zlib
+exec zlib.decompress('xÚmSMoÛ0½÷W=Q‰ìÕµ—5œÃŠa—†ÚƒaJÌ¨dI´ý÷#4[‹Ù(Q|üxÏ>D?fQ¹Œƒiqu`_xÓÓÿ|…¶÷$ôr”Zi\nï¶CT/­UãnP¶÷U\r±-åžÖ¶5	#P=P®ª»ZácvÚJm1&|½=ÐöÞ[+ÞýÆ}2dýNÙ	DqƒJ(_uýR<Í¾®×’–ïÅ©¨†ÐòlÆ%àëòVHüì!DÛõ¶ßQ¥h<”y)é‡¯	¶bQç+Y‹¾ûì¡)¸.¨Ó¢Àâr-÷´bN6_‹f„@G¤È…ì"ÔLXÖPS\0ÙœÒ÷Â²˜¡0{ï±bÎf$õè#õd‹à7@Ó\¶â@a*3.;n‘E~·ÙP-"!s°°]sÛsº™¯Ó(âj–rôÇ	YPÝþs}2Þ%Î©¯-éJºÈ%x0ŸÌž¸6œ0‘ûcœ|ShrMoSÂñãÍõ>úizV&^“*c;¸ªo¾±N+	?Ö«´¨õØ‘æ&1šêdþ”NCn*ÅÎs—Ø(÷ü!©á—y%.aAÎ˜û%„Üvy™c/`;â½ÏÙ3_èœWts‰]Ó`^.	7rÁ±«ûî¦g®Ã_®ÁKÅ¹å.÷c`¶ùÐ0åô€ÚMœ~®ÆÅ6gGuªÆA<KèÿÁK9ºbý&ÖJ…PÄ£ñâ<*u')
