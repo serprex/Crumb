@@ -1,3 +1,3 @@
 #!/usr/bin/python2
 #coding=latin
-exec "xÚmSÁŽ›0½ïW =CK é‰ZU½ôPõÐ= 9aÂZ2¶e%ùûÎv7­\n²Æž™73~ŽÁ\rIP¶#£ïB\<Ùç¯½Áø?_Ö›7÷(´²—ZêÌÙ]Ô¹6jØwªêÍWƒ*@¡ÎåÖ®ÖP·!_O¥Â…ä¶•pÆ…âH»_xˆš¬Û+3‚ÈN¾SåYÓ çìy2ði³‘´„|íHzð5_GÛÎWBâ¿BÔà OsI¯,^\"ìÄ¢L×r%ïO4Øœy[œ–y R²é†]žŽHË“ÙE {ˆ_–/)N6¥‹ÓDM+ô1		š¡7_°×ŠJsM9½ù!âeu“yça*ø¾GbP%Ú&7^\rZ0\"}ÚnsÑRä®ÀÂ4ÕªeÊ'ªÌ7Û“tƒ;ÈöõÝypQ;;Kš(R{ I¹'ümñYwñˆeM¸ã<œÂèè¬'×x#GÁã‹Òá‘ô°õtçuùñ3+´’ðŠÇE!hÀ*$0©‚41ÐÓws»ê¶PìœGÄJÙ+ð¤ºŸúBÔÂ¼œ0\r¶Kð©iÒ<ÅV,À4$E›²!Z>Ð9-(ò–!šªJóvi¹›mÊ¶!Æ[&Ü¿N*.-g´<ž™æCÅtÓj?rõ©÷ÚÎŽâÖŒ“ø,‹§ß¶HFÖIyŸ…“ñ§u\"³".decode('zip')
+exec "xÚmSÁŽÚ0½óÑžÆàd	¡´DÊZU½ôPõÐ=D2dÈZrlË1þ¾3	lÑª kfžgüÆoœcp}”mÉèÞ»ç³#cþÚŒÿÃ²Î¼Ãád¥“VvRK9»kƒ:WFõûV•ùfPè T¹<ÐÚU:b\0âëòMñe-„p!™\IÎ¸PÉû‡¨Éº½2ˆìä[Qž5µzÎ^GŸ¶[IKÈ;#1uà+¾¶x;_	‰ª¨ÀÁRæ2Ò‚ÅK„˜¯Ó\ÉÇˆÚâ<ús^XlåVHÉ¦[†<…HË„9Èïé~±¦½5í‘Mé²ÔEÝ}LB‚f@èÌWì´…b*ãnÆœÎüÁñ²:‚É¼ó@ÇÝq$ÅT¢m2éhÐ‚Ï«t#ªMjç¦.W\r+<*c¾Û„˜“êÝi@žWW=Ä½‹ÚÙÛEÃíij4frO'üÔ_uß€dÕT9`¼•Na &ÐYGØp\"ö¶žÁ\rÃ›Òá‰F`+øAçÅy!@”!q.KÒ#u	D=>év/…bðÖ–Ê^ßˆjé)	s˜JjlàSS§yŠ˜ƒ©Iø&eCJ<Sœ´óž!½¨Ë’Ü”+y›õò3?zÓë´õ²aÍý?ÍÁIÅ\òvœ<ôžÕæ dÉéj?0ÝÈÎä/7 ˜Ø9‰oÅ£ñôyàÄE8Oq”\Ì”÷Ùèþ|ñ!d".decode('zip')
