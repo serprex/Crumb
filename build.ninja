@@ -1,0 +1,9 @@
+rule cc
+ command=gcc -std=gnu11 $in -o $out -lGL -lglfw
+build CCr:cc Crumb.c
+rule carlae
+ command=../carlae/carlae $in $out
+rule carlae3
+ command=../carlae/carlae $in $out 3
+build Crumb.py:carlae C.py
+build Crumb3.py:carlae3 C3.py
